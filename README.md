@@ -11,7 +11,7 @@ Refer to the original [nextstrain page](https://nextstrain.org/docs/getting-star
 
 
 ### Tutorial
-[Click here](https://github.com/andersonbrito/nextstrain_course/raw/master/tutorial_nextstrain.pdf) to download the course handout with a step-by-step tutorial on how to prepare your working directory, run `augur` and visualize the results with `auspice`.
+[Click here](https://github.com/andersonbrito/nextstrain_course/raw/master/tutorial_nextstrain.pdf) to download the course handout with a step-by-step tutorial on how to prepare your working directory, run `augur` and visualize the results with `auspice`. Please check [this webiste](https://neherlab.org/201910_RIVM_nextstrain.html) for more information about the distinct functionalities of nextstrain.
 
 ## Author
 
