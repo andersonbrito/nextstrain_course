@@ -1,5 +1,5 @@
 {
-  "title": "Add here your project title",
+  "title": "Add your project title here",
   "color_options": {
     "num_date": {"menuItem": "date", "legendTitle": "Sampling date", "type": "continuous"},
     "country": {"legendTitle":"Country", "type":"discrete"},
@@ -11,7 +11,7 @@
   ],
   "maintainer": [
     "Add your name here",
-    "Add your github repository here"
+    "Add your github link repository here"
   ],
   "filters": [
     "country",
